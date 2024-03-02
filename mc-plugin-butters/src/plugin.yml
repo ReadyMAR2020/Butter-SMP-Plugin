@@ -1,0 +1,16 @@
+main: butter_smp.McPluginButters
+name: McPluginButter
+version: 1.1
+author: Butter SMP Devs
+api-version: 1.20.4
+description: A plugin made for the Butter SMP
+commands:
+  repeatkill:
+    description: Repeatedly Kills Whoever you use it on.
+    usage: /repeatkill
+permissions:
+  repeatkill.player:
+    default: op
+    description: Kills The Player.
+
+
