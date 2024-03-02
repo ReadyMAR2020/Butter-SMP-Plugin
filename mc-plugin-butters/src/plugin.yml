@@ -4,6 +4,7 @@ version: 1.1
 author: Butter SMP Devs
 api-version: 1.20.4
 description: A plugin made for the Butter SMP
+//About the mod//
 commands:
   repeatkill:
     description: Repeatedly Kills Whoever you use it on.
@@ -12,5 +13,5 @@ permissions:
   repeatkill.player:
     default: op
     description: Kills The Player.
-
+//This is just what the mod does//
 
